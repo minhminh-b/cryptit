@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/minhminh2003/cryptit/encrypt"
-	"github.com/minhminh2003/cryptit/decrypt"
+	"github.com/minhminh-b/cryptit/encrypt"
+	"github.com/minhminh-b/cryptit/decrypt"
 )
 
 func main() {
